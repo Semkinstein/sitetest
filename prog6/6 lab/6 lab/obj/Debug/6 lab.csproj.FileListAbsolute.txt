@@ -1,0 +1,24 @@
+C:\Users\Admin\Desktop\2 семестр\trpo\6 lab trpo\6 lab\6 lab\bin\Debug\6 lab.dll
+C:\Users\Admin\Desktop\2 семестр\trpo\6 lab trpo\6 lab\6 lab\bin\Debug\6 lab.pdb
+C:\Users\Admin\Desktop\2 семестр\trpo\6 lab trpo\6 lab\6 lab\bin\Debug\nunit.framework.dll
+C:\Users\Admin\Desktop\2 семестр\trpo\6 lab trpo\6 lab\6 lab\bin\Debug\WebDriver.dll
+C:\Users\Admin\Desktop\2 семестр\trpo\6 lab trpo\6 lab\6 lab\bin\Debug\nunit.framework.pdb
+C:\Users\Admin\Desktop\2 семестр\trpo\6 lab trpo\6 lab\6 lab\bin\Debug\nunit.framework.xml
+C:\Users\Admin\Desktop\2 семестр\trpo\6 lab trpo\6 lab\6 lab\bin\Debug\WebDriver.xml
+C:\Users\Admin\Desktop\2 семестр\trpo\6 lab trpo\6 lab\6 lab\obj\Debug\6 lab.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\2 семестр\trpo\6 lab trpo\6 lab\6 lab\obj\Debug\6 lab.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\2 семестр\trpo\6 lab trpo\6 lab\6 lab\obj\Debug\6 lab.csproj.CopyComplete
+C:\Users\Admin\Desktop\2 семестр\trpo\6 lab trpo\6 lab\6 lab\obj\Debug\6 lab.dll
+C:\Users\Admin\Desktop\2 семестр\trpo\6 lab trpo\6 lab\6 lab\obj\Debug\6 lab.pdb
+C:\Users\Admin\Desktop\6 lab\6 lab\bin\Debug\6 lab.dll
+C:\Users\Admin\Desktop\6 lab\6 lab\bin\Debug\6 lab.pdb
+C:\Users\Admin\Desktop\6 lab\6 lab\bin\Debug\nunit.framework.dll
+C:\Users\Admin\Desktop\6 lab\6 lab\bin\Debug\WebDriver.dll
+C:\Users\Admin\Desktop\6 lab\6 lab\bin\Debug\nunit.framework.pdb
+C:\Users\Admin\Desktop\6 lab\6 lab\bin\Debug\nunit.framework.xml
+C:\Users\Admin\Desktop\6 lab\6 lab\bin\Debug\WebDriver.xml
+C:\Users\Admin\Desktop\6 lab\6 lab\obj\Debug\6 lab.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\6 lab\6 lab\obj\Debug\6 lab.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\6 lab\6 lab\obj\Debug\6 lab.csproj.CopyComplete
+C:\Users\Admin\Desktop\6 lab\6 lab\obj\Debug\6 lab.dll
+C:\Users\Admin\Desktop\6 lab\6 lab\obj\Debug\6 lab.pdb
